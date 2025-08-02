@@ -1,2 +1,2 @@
 # jerenwa.github.io
-This is my GitHub pages site.
+This is the repository for my GitHub pages site.
