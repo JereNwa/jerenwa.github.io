@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'SF Pro';
+    src: url('/fonts/SF-Pro.ttf');
+}
+
 @charset "UTF-8";
 /*! bulma.io v1.0.4 | MIT License | github.com/jgthms/bulma */
 /* Bulma Utilities */
